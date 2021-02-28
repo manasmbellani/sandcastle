@@ -281,3 +281,9 @@
 .net
 .co.uk
 .org
+.fr
+.de
+.es
+.com.fr
+.com.de
+.com.es
