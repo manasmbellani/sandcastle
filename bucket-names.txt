@@ -72,6 +72,9 @@
 -projects
 -research
 -reseller
+-windows
+-mac
+-linux
 -reserved
 -static
 -statistics
